@@ -1,4 +1,5 @@
 # Day_1
+I HAVENT DOWNLOADED THE DATASET INSTEAD I DIRECTLY USED IT FROM SEABORN LIBRARY IN GOOGLE COLAB
 Here are 6 steps describing what i have done in the code:
 
 1.   Loaded the Titanic dataset using seaborn and explored its initial state, including checking for missing values, unique values, shape, and data types.
